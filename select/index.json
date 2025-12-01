@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Blazin' Beat",
+  "base_artist": "move",
+  "createdAt": "2025-12-01T17:49:45.040522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "Move",
+      "has_synced": true,
+      "path": "select/01_Blazin'_Beat_Move.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/02_Blazin'_Beat_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/03_Blazin'_Beat_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "Merm4id",
+      "has_synced": false,
+      "path": "select/04_Blazin'_Beat_Merm4id.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "Merm4id",
+      "has_synced": true,
+      "path": "select/05_Blazin'_Beat_Merm4id.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blazin’ Beat",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/06_Blazin’_Beat_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "blazin beat",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/07_blazin_beat_move.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/08_Blazin'_Beat_move.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "move",
+      "has_synced": false,
+      "path": "select/09_Blazin'_Beat_move.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/10_Blazin'_Beat_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/11_Blazin'_Beat_move.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/12_Blazin'_Beat_m.o.v.e.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blazin' Beat (Brazilian mix)",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_Blazin'_Beat_(Brazilian_mix)_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_02_Blazin'_Beat_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_03_Blazin'_Beat_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_04_Blazin'_Beat_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Blazin' Beat",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_05_Blazin'_Beat_m.o.v.e.txt"
+    }
+  ]
+}
